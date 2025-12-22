@@ -9,6 +9,9 @@ int main(){
         // cout << count << endl;
         // count++;
         sum = sum + i;
+        if(i == 5){
+            break;
+        }
     }
     cout << "sum = " << sum << endl;
 }
