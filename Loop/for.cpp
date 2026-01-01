@@ -9,7 +9,7 @@ int main(){
         // cout << count << endl;
         // count++;
         sum = sum + i;
-        if(i == 5){
+        if(i == 6){
             break;
         }
     }
