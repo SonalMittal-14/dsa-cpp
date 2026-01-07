@@ -13,5 +13,5 @@ int main(){
             break;
         }
     }
-    cout << "sum is " << sum << endl;
+    cout << "sum is :" << sum << endl;
 }
